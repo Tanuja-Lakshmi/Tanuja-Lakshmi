@@ -10,7 +10,7 @@ Languages & tools: JavaScript · C · Excel/Google Sheets
 
 ## 📫 Contact & Socials
 - Email: thanujalakshmi956@gmail.com  
-- LinkedIn:https://www.linkedin.com/in/Tanuja lakshmi
+- LinkedIn:PROCESSING
 - GitHub: https://github.com/Tanuja-Lakshmi  
 
 Thanks for visiting – let's build something great together 🙌
