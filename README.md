@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Tanuja, a Business Analytics student, learning programming, statistics, and data visualization.
 
-<!--
-**Tanuja-Lakshmi/Tanuja-Lakshmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 About Me
+I'm a student, currently practising Java and basic data analysis projects.  
+Interested in business intelligence dashboards.  
+✨ I'm learning: *Java fundamentals and OOP, exploring Excel/Google Sheets and basic SQL*.
 
-Here are some ideas to get you started:
+## 🛠 Currently learning
+Languages & tools: JavaScript · C · Excel/Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact & Socials
+- Email: thanujalakshmi956@gmail.com  
+- LinkedIn:https://www.linkedin.com/in/tanuja-lakshmi-b4b063382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- GitHub: https://github.com/Tanuja-Lakshmi  
+
+Thanks for visiting – let's build something great together 🙌
